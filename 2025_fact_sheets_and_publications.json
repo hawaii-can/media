@@ -13,5 +13,46 @@
       "Featured":true,
       "URL":"https://assets.nationbuilder.com/goodbeginnings/pages/2185/attachments/original/1646182955/Hawaii_Childrenʻs_Budget_Web.pdf?1646182955",
       "cached_thumbnail_url":"https://assets.nationbuilder.com/goodbeginnings/pages/2185/attachments/original/1733421941/2022-03-02.png?1733421941"
+   },
+   
+   {
+      "Type": "Report",
+      "Publication date": "2020-10-01",
+      "URL": "https://www.hawaii-can.org/childhood_lead_poisoning_prevention",
+      "Thumbnail": [
+         {
+            "id": "attwj6owycfGnxfqL",
+            "width": 1200,
+            "height": 1520,
+            "url": "https://v5.airtableusercontent.com/v3/u/26/26/1709330400000/BSL9mOvDTFE4Jf5RC2Fxzw/VL4-IRLRuyKGqC2u0ZhV1T5ypoFE-2_pVXhpC5thUYqfPn1SQbBV0-p571d_mLYkMZSQ4ryiWDH-NQW8tRmMtMOxMNWhCqKcB6p_IdWtXHAfR8i5jD37xko1rNsfO2gqdmSPFKG-gLf2iZoqSb9rH7OIPbOkF0sKp6Ru5zQ9kUEvwgFCHVQBupzk5JnHEBs7/HV3nMdn2xFtM3abOEbxyLRMwQBl3lOX1Z2LZR0nxQds",
+            "filename": "CleanShot_2020-10-23_at_15.39.56_2x.jpg",
+            "size": 290537,
+            "type": "image/jpeg",
+            "thumbnails": {
+               "small": {
+                  "url": "https://v5.airtableusercontent.com/v3/u/26/26/1709330400000/N4HbJ9vdS1NaQ7c1PwWhIw/G8FW-P5aez7CFz37_qXdpf1KwaBwme15QpXoMCusQ6YXPUxc0AA2oPoy_lGhP0NeG_OuO6wdA0zWl4JqjbpEpKagz88O5yQnsao66pSpgFM3rRYu44-uaNxSD_hfNMOaNSFQQxpKXeWgsRUayU2RNg/qqOEVW9tkQ-TanqEr51EoIQt_1dXmXBuH1b54o6fogA",
+                  "width": 28,
+                  "height": 36
+               },
+               "large": {
+                  "url": "https://v5.airtableusercontent.com/v3/u/26/26/1709330400000/8ZiiaKiS0pZB6usaHjqO_A/XROsaptouJEVYTS0Ib7bW2kOEBBhVPcyonsQz5Zqzn-vaFFwBBFkT_IBX2GNZUVnWAVX2756WwADortG5lXK-UD6R-qZktOS5YKS1cR85t0SOy8H4foKIddn7quVxzwMnQ-FFavGKuprJg3iZ0VCMw/VbzJKHAkO73WZVPdY45yUknYUnlLwHWRgQ5JHJ5ofqk",
+                  "width": 512,
+                  "height": 649
+               },
+               "full": {
+                  "url": "https://v5.airtableusercontent.com/v3/u/26/26/1709330400000/OI2VpJNIcuIBthlLb1RGlg/KdUUF4xMzFL6_ujhv_naiN1oTgzqao4U5yDkc00UbLktqzTV2FAZZrNd2JYH-ilsd1DlTHRujE_MIGzWeUwrg_wK6ek-mj8sMKl2eWfiCCys34H5TRFYISM-n8rsbP_LOvbQCoJbfE2V2wnWYNWshw/C3Qf2ByB5pLt5-jNkb_Gy5ni63of6r5WBFAExzsFBwI",
+                  "width": 3000,
+                  "height": 3000
+               }
+            }
+         }
+      ],
+      "Title": "Hawaiʻi Childhood Lead Poisoning Prevention",
+      "Topics": [
+         "Health"
+      ],
+      "Description": "Childhood lead poisoning is a serious health threat that impacts millions of children throughout the United States, including Hawai’i. \nEven low levels of lead exposure can have severe long-term consequences that follow children into adulthood. Despite this, many states, including Hawai’i, do not require testing all children for lead. Many cases go unrecognized, and the actual rate of lead poisoning is unknown. \nWith universal childhood testing and the recommendations outlined in our reports, we can protect children and the larger community from the life-altering effects of this completely preventable health threat.\n",
+      "Description HTML": "<p>Childhood lead poisoning is a serious health threat that impacts millions of children throughout the United States, including Hawai’i. </p>\n\n<p>Even low levels of lead exposure can have severe long-term consequences that follow children into adulthood. Despite this, many states, including Hawai’i, do not require testing all children for lead. Many cases go unrecognized, and the actual rate of lead poisoning is unknown. </p>\n\n<p>With universal childhood testing and the recommendations outlined in our reports, we can protect children and the larger community from the life-altering effects of this completely preventable health threat.</p>\n",
+      "cached_thumbnail_url": "https://hcan-public-us-west.s3.us-west-1.amazonaws.com/fact_sheets_and_publications/hawai_i_childhood_lead_poisoning_prevention_cleanshot_2020_10_23_at_15.39.56_2x.jpg"
    }
 ]
